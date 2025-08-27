@@ -33,6 +33,10 @@ export DISPLAY=:1
   provenant de plusieurs serveurs FTP.
 - Tu peux fournir une liste de serveurs, et l’outil 
   tentera de se connecter et de récupérer l’arborescence.
+  
+structure attendue pour la liste de servers :
+
+[list.txt](https://raw.githubusercontent.com/trh4ckn0n/tk-ftp-manage/refs/heads/gh-pages/list.txt)
 
 📷 Capture d’écran :
 ![https://c.top4top.io/p_3526t9rvw1.jpeg](https://c.top4top.io/p_3526t9rvw1.jpeg)
