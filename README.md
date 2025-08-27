@@ -36,7 +36,7 @@ export DISPLAY=:1
   
 structure attendue pour la liste de servers :
 
-[list.txt](https://raw.githubusercontent.com/trh4ckn0n/tk-ftp-manage/refs/heads/master/list.txt)
+[list.txt](https://raw.githubusercontent.com/trh4ckn0n/tk-ftp-manage/refs/heads/main/list.txt)
 
 📷 Capture d’écran :
 ![https://c.top4top.io/p_3526t9rvw1.jpeg](https://c.top4top.io/p_3526t9rvw1.jpeg)
